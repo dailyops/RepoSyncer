@@ -1,4 +1,4 @@
-# -- Mutliple Git Repositories Updater For Everyday Local Development -- #
+# -- Mutliple Git Repositories Updater For day-to-day Local Development Work -- #
 
 import os
 import subprocess
